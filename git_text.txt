@@ -1,1 +1,3 @@
 git --version
+remote repository name
+git fetch repository_name
